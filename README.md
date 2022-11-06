@@ -1,6 +1,5 @@
 ### Here is what I am working on! 👋
 
-- 🔭 I’m currently working on ... Reddit clone app
 - 🌱 I’m currently learning ... JavaScript, node, React
 - 👯 I’m looking to collaborate on ... any project that involves JavaScript
 - 🤔 I’m looking for help with ... node
